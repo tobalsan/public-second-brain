@@ -3,7 +3,7 @@
 Stuff I want to read/watch
 
 ## Reading List
-- [The LLM Triangle Principles to Architect Reliable AI Apps | Towards Data Science](https://towardsdatascience.com/the-llm-triangle-principles-to-architect-reliable-ai-apps-d3753dd8542e/)
+Nothing at the moment. 
 
 ## Watch List
 - [X post - Claude Code cracked something open for us @every. Now I ship to codebases I barely know, every feature we ship makes the next one easier, and non-technical members of the team use the terminal. I’m genuinely grateful. So I brought its creators, Cat Wu and Boris Cherny ](https://x.com/danshipper/status/1983554470895108343)
