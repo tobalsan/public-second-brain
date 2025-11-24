@@ -12,13 +12,14 @@
 ## Coding Agents Tooling
 - [numman-ali/openskills: Universal skills loader for AI coding agents - npm i -g openskills](https://github.com/numman-ali/openskills) - Super cool, use Claude skills but with any coding agent.
 - [cased/kit: The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.](https://github.com/cased/kit) - Looks like a solid alternative to using AST-grep + Repomix or Gitingest to get an agent to know your codebase.
+- [automazeio/vibeproxy: Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed](https://github.com/automazeio/vibeproxy/tree/main?tab=readme-ov-file) - Useful app to proxy your existing subscriptions (Claude Max, ChatGPT) with CLI coding agents e.g. Factory Droid.
 
 ## Testing and Evals
 - [Building an LLM-as-a-Judge System for AI (Customer Support) Agent - Portkey Docs](https://portkey.ai/docs/guides/prompts/llm-as-a-judge) - An A-to-Z guide on implementing LLM-as-a-Judge while leveraging Portkey's Prompt Engineering features.
 - [Your AI Product Needs Evals – Hamel's Blog - Hamel Husain](https://hamel.dev/blog/posts/evals/#level-1-unit-tests)
 - [Using LLM-as-a-Judge For Evaluation: A Complete Guide – Hamel's Blog - Hamel Husain](https://hamel.dev/blog/posts/llm-judge/#step-5-build-your-llm-as-a-judge-iteratively)
 - [Testing for LLM Applications: A Practical Guide - Langfuse Blog](https://langfuse.com/blog/2025-10-21-testing-llm-applications) - Recent, simple, and straightforward guide to implement LLM testing with LangFuse
-- [Test - Docs by LangChain](https://docs.langchain.com/oss/python/langgraph/test) Basics of testing workflows when using Langgraph
+- [Test - Docs by LangChain](https://docs.langchain.com/oss/python/langgraph/test) - Basics of testing workflows when using Langgraph
 
 ## General Principles
 - [Build to Last — Chris Lattner talks with Jeremy Howard - YouTube](https://www.youtube.com/watch?v=WJS2YDZO-vc) - Super interesting conversation. Chris Lattner (creator of LLVM, Swift, and Mojo) and Jeremy Howard (founder of Fast.ai, inventor of first LLM) discuss why rushing to AI-generated code might be destroying code craftsmanship.
