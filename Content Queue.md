@@ -11,3 +11,5 @@ Nothing at the moment.
 - [some lore about low-level LLM systems engineering... - YouTube](https://www.youtube.com/watch?v=NBqHVjyDFfQ) - 2 hours 23 minute video but I read it goes deep on LLMs
 - [MIT 6.041SC Probabilistic Systems Analysis and Applied Probability, Fall 2013 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe) - I need to complete this course because probabilities rule the universe
 - [Markov Chains Clearly Explained! Part - 1 - YouTube](https://www.youtube.com/watch?v=i3AkTO9HLXo) - Fun explainer video about Markov chains
+- [Introduction and Examples—How to Solve it With Code, Lesson 1](https://www.youtube.com/watch?v=0X4kwgvcsRg)
+- [Build an AI Agent From Scratch—How to Solve it With Code, Lesson 2](https://www.youtube.com/watch?v=_xkv-zWb-Tg)
