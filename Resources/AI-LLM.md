@@ -13,6 +13,7 @@
 - [numman-ali/openskills: Universal skills loader for AI coding agents - npm i -g openskills](https://github.com/numman-ali/openskills) - Super cool, use Claude skills but with any coding agent.
 - [cased/kit: The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.](https://github.com/cased/kit) - Looks like a solid alternative to using AST-grep + Repomix or Gitingest to get an agent to know your codebase.
 - [automazeio/vibeproxy: Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed](https://github.com/automazeio/vibeproxy/tree/main?tab=readme-ov-file) - Useful app to proxy your existing subscriptions (Claude Max, ChatGPT) with CLI coding agents e.g. Factory Droid.
+- [mrgoonie/claudekit-skills: All powerful skills of ClaudeKit.cc!](https://github.com/mrgoonie/claudekit-skills?tab=readme-ov-file) - This repo is a great source of inspiration for Claude Skills.
 
 ## Testing and Evals
 - [Building an LLM-as-a-Judge System for AI (Customer Support) Agent - Portkey Docs](https://portkey.ai/docs/guides/prompts/llm-as-a-judge) - An A-to-Z guide on implementing LLM-as-a-Judge while leveraging Portkey's Prompt Engineering features.
