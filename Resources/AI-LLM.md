@@ -25,3 +25,9 @@
 ## General Principles
 - [Build to Last — Chris Lattner talks with Jeremy Howard - YouTube](https://www.youtube.com/watch?v=WJS2YDZO-vc) - Super interesting conversation. Chris Lattner (creator of LLVM, Swift, and Mojo) and Jeremy Howard (founder of Fast.ai, inventor of first LLM) discuss why rushing to AI-generated code might be destroying code craftsmanship.
 - [X post - Notes on how @linear thinks about AI agents: "The best automation starts with manual processes". They went from keyword search → semantic search → full agentic loops](https://x.com/jxnlco/status/1980624372936159315)
+
+## Utility
+
+- [Trimmy — Paste once, run once](https://trimmy.app/) - Isn't it annoying when you copy an LLM's answer in the terminal and the formatting is completely broken? This fixes it.
+
+
