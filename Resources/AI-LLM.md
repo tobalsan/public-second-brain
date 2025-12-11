@@ -15,6 +15,11 @@
 - [automazeio/vibeproxy: Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed](https://github.com/automazeio/vibeproxy/tree/main?tab=readme-ov-file) - Useful app to proxy your existing subscriptions (Claude Max, ChatGPT) with CLI coding agents e.g. Factory Droid.
 - [mrgoonie/claudekit-skills: All powerful skills of ClaudeKit.cc!](https://github.com/mrgoonie/claudekit-skills?tab=readme-ov-file) - This repo is a great source of inspiration for Claude Skills.
 
+## Browser Control
+- [remorses/playwriter: The better playwright MCP: works as a browser extension. No context bloat. More capable.](https://github.com/remorses/playwriter): Like Playwright MCP but via a Chrome extension. 90% less context window. 10x more capable (full playwright API).
+- [SawyerHood/dev-browser: A Claude Skill to give your agent the ability to use a web browser](https://github.com/SawyerHood/dev-browser): Kind of a mix between full Claude Skill and the Playwright MCP. Fast execution while saving tokens.
+- [hangwin/mcp-chrome: Chrome MCP Server](https://github.com/hangwin/mcp-chrome): Install the Chrome extension and it acts as an MCP server that your coding agent can connect to, so you can use it with your own sessions.
+
 ## Testing and Evals
 - [Building an LLM-as-a-Judge System for AI (Customer Support) Agent - Portkey Docs](https://portkey.ai/docs/guides/prompts/llm-as-a-judge) - An A-to-Z guide on implementing LLM-as-a-Judge while leveraging Portkey's Prompt Engineering features.
 - [Your AI Product Needs Evals – Hamel's Blog - Hamel Husain](https://hamel.dev/blog/posts/evals/#level-1-unit-tests)
