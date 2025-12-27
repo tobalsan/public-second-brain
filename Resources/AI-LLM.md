@@ -3,17 +3,19 @@
 ## Prompts and System Instructions
 
 - [Optimizing Coding Agent Rules (CLAUDE.md, agents.md, ./clinerulesm .cursor/rules) for Improved Accuracy - Arize AI](https://arize.com/blog/optimizing-coding-agent-rules-claude-md-agents-md-clinerules-cursor-rules-for-improved-accuracy/)
-- [microsoft/agent-lightning: The absolute trainer to light up AI agents.](https://github.com/microsoft/agent-lightning) - Train your agents without the overhead of a classic full SFT/RL setup
+- [microsoft/agent-lightning: The absolute trainer to light up AI agents.](https://github.com/microsoft/agent-lightning) – Train your agents without the overhead of a classic full SFT/RL setup
 
 ## Memory
-- [AgentDB - Ultra-Fast Vector Database for AI Agents | AgentDB](https://agentdb.ruv.io/) - Instant memory. Local learning.  Global coordination. A sub-millisecond memory engine built for autonomous agents with 29 MCP tools for seamless AI integration.
+- [AgentDB - Ultra-Fast Vector Database for AI Agents | AgentDB](https://agentdb.ruv.io/) – Instant memory. Local learning.  Global coordination. A sub-millisecond memory engine built for autonomous agents with 29 MCP tools for seamless AI integration.
 	- I think it would be very interesting to set up an agent with this and give it my personal "therapy" conversations I had with LLMs.
+- [rlancemartin/claude-diary: A simple memory system for claude code](https://github.com/rlancemartin/claude-diary/tree/main) – A really simple way to set up a "diary" for Claude so it remembers things. I like how simple the process is, just a couple custom slash commands and markdown files. That's it. No complex vector DB and RAG shenanigans.
 
 ## Coding Agents Tooling
-- [numman-ali/openskills: Universal skills loader for AI coding agents - npm i -g openskills](https://github.com/numman-ali/openskills) - Super cool, use Claude skills but with any coding agent.
-- [cased/kit: The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.](https://github.com/cased/kit) - Looks like a solid alternative to using AST-grep + Repomix or Gitingest to get an agent to know your codebase.
-- [automazeio/vibeproxy: Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed](https://github.com/automazeio/vibeproxy/tree/main?tab=readme-ov-file) - Useful app to proxy your existing subscriptions (Claude Max, ChatGPT) with CLI coding agents e.g. Factory Droid.
-- [mrgoonie/claudekit-skills: All powerful skills of ClaudeKit.cc!](https://github.com/mrgoonie/claudekit-skills?tab=readme-ov-file) - This repo is a great source of inspiration for Claude Skills.
+- [numman-ali/openskills: Universal skills loader for AI coding agents - npm i -g openskills](https://github.com/numman-ali/openskills) – Super cool, use Claude skills but with any coding agent.
+- [cased/kit: The toolkit for AI devtools context engineering. Build with codebase mapping, symbol extraction, and many kinds of code search.](https://github.com/cased/kit) – Looks like a solid alternative to using AST-grep + Repomix or Gitingest to get an agent to know your codebase.
+- [automazeio/vibeproxy: Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed](https://github.com/automazeio/vibeproxy/tree/main?tab=readme-ov-file) – Useful app to proxy your existing subscriptions (Claude Max, ChatGPT) with CLI coding agents e.g. Factory Droid.
+- [mrgoonie/claudekit-skills: All powerful skills of ClaudeKit.cc!](https://github.com/mrgoonie/claudekit-skills?tab=readme-ov-file) – This repo is a great source of inspiration for Claude Skills.
+- [compound-engineering-plugin/plugins/compound-engineering at main · EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin/tree/main/plugins/compound-engineering) – This repo has great custom commands and skills for Claude Code, e.g. the `/create-skill` and meta `/create-command` commands , or the `gemini-imagen` skill. 
 
 ## Browser Control
 - [remorses/playwriter: The better playwright MCP: works as a browser extension. No context bloat. More capable.](https://github.com/remorses/playwriter): Like Playwright MCP but via a Chrome extension. 90% less context window. 10x more capable (full playwright API).
