@@ -16,6 +16,7 @@
 - [automazeio/vibeproxy: Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed](https://github.com/automazeio/vibeproxy/tree/main?tab=readme-ov-file) – Useful app to proxy your existing subscriptions (Claude Max, ChatGPT) with CLI coding agents e.g. Factory Droid.
 - [mrgoonie/claudekit-skills: All powerful skills of ClaudeKit.cc!](https://github.com/mrgoonie/claudekit-skills?tab=readme-ov-file) – This repo is a great source of inspiration for Claude Skills.
 - [compound-engineering-plugin/plugins/compound-engineering at main · EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin/tree/main/plugins/compound-engineering) – This repo has great custom commands and skills for Claude Code, e.g. the `/create-skill` and meta `/create-command` commands , or the `gemini-imagen` skill. 
+- [asheshgoplani/agent-deck: Terminal session manager for AI coding agents. Built with Go + Bubble Tea.](https://github.com/asheshgoplani/agent-deck) – I'm already using tmux to manage multiple agents, but this could make switching between windows snappier than with tmux.
 
 ## Browser Control
 - [remorses/playwriter: The better playwright MCP: works as a browser extension. No context bloat. More capable.](https://github.com/remorses/playwriter): Like Playwright MCP but via a Chrome extension. 90% less context window. 10x more capable (full playwright API).
