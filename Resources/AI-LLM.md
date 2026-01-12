@@ -9,6 +9,7 @@
 - [AgentDB - Ultra-Fast Vector Database for AI Agents | AgentDB](https://agentdb.ruv.io/) – Instant memory. Local learning.  Global coordination. A sub-millisecond memory engine built for autonomous agents with 29 MCP tools for seamless AI integration.
 	- I think it would be very interesting to set up an agent with this and give it my personal "therapy" conversations I had with LLMs.
 - [rlancemartin/claude-diary: A simple memory system for claude code](https://github.com/rlancemartin/claude-diary/tree/main) – A really simple way to set up a "diary" for Claude so it remembers things. I like how simple the process is, just a couple custom slash commands and markdown files. That's it. No complex vector DB and RAG shenanigans.
+- [aiming-lab/SimpleMem: SimpleMem: Efficient Lifelong Memory for LLM Agents](https://github.com/aiming-lab/SimpleMem) A promising 3-step framework to add long-term memory to agents. Note it's more for pure code-based agents (with SDKs and such), but could be adapted to coding agents like CC or Codex.
 
 ## Coding Agents Tooling
 - [numman-ali/openskills: Universal skills loader for AI coding agents - npm i -g openskills](https://github.com/numman-ali/openskills) – Super cool, use Claude skills but with any coding agent.
@@ -22,6 +23,7 @@
 - [remorses/playwriter: The better playwright MCP: works as a browser extension. No context bloat. More capable.](https://github.com/remorses/playwriter): Like Playwright MCP but via a Chrome extension. 90% less context window. 10x more capable (full playwright API).
 - [SawyerHood/dev-browser: A Claude Skill to give your agent the ability to use a web browser](https://github.com/SawyerHood/dev-browser): Kind of a mix between full Claude Skill and the Playwright MCP. Fast execution while saving tokens.
 - [hangwin/mcp-chrome: Chrome MCP Server](https://github.com/hangwin/mcp-chrome): Install the Chrome extension and it acts as an MCP server that your coding agent can connect to, so you can use it with your own sessions.
+- [vercel-labs/agent-browser: Browser automation CLI for AI agents](https://github.com/vercel-labs/agent-browser): Zero config → Fast Rust CLI → Headed or Headless → Up to 93% less context than Playwright MCP → Compatible with Codex, Claude Code, Gemini, Cursor, Copilot, opencode, and any agent that supports Bash.
 
 ## Testing and Evals
 - [Building an LLM-as-a-Judge System for AI (Customer Support) Agent - Portkey Docs](https://portkey.ai/docs/guides/prompts/llm-as-a-judge) - An A-to-Z guide on implementing LLM-as-a-Judge while leveraging Portkey's Prompt Engineering features.
