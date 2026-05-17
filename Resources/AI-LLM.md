@@ -5,6 +5,11 @@
 - [Optimizing Coding Agent Rules (CLAUDE.md, agents.md, ./clinerulesm .cursor/rules) for Improved Accuracy - Arize AI](https://arize.com/blog/optimizing-coding-agent-rules-claude-md-agents-md-clinerules-cursor-rules-for-improved-accuracy/)
 - [microsoft/agent-lightning: The absolute trainer to light up AI agents.](https://github.com/microsoft/agent-lightning) – Train your agents without the overhead of a classic full SFT/RL setup
 
+## Self-improvement loops
+
+- [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent): autonomous harness engineering. Makes me think of A. Karpathy's autoresearch project. See [X post about autoagent](https://x.com/kevingu/status/2039843234760073341).
+- [neosigmaai/auto-harness](https://github.com/neosigmaai/auto-harness): Bring your own agent and build a self-improving agentic system. Automatically mine failures, optimize the agent harness, and gate against regressions. Another conceptual offspring of autoresearch.
+
 ## Memory
 - [AgentDB - Ultra-Fast Vector Database for AI Agents | AgentDB](https://agentdb.ruv.io/) – Instant memory. Local learning.  Global coordination. A sub-millisecond memory engine built for autonomous agents with 29 MCP tools for seamless AI integration.
 	- I think it would be very interesting to set up an agent with this and give it my personal "therapy" conversations I had with LLMs.
